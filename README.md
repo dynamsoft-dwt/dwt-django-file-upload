@@ -83,14 +83,15 @@ Basic Steps
 
    If you don't want to use **csrf token**, you just need to comment out ```'django.middleware.csrf.CsrfViewMiddleware'``` in **settings.py**.
 
-Uploading Files with Form
+Samples
 -----------
-form-upload
-
-Uploading Image Files with Dynamic Web TWAIN
---------------------------------------------
-dwt-upload
+* Uploading files with form: [form-upload][1]
+* Uploading image files with [Dynamic Web TWAIN][2]: [dwt-upload][3]
 
 Blog
 ----
 Coming soon...
+
+[1]:https://github.com/dynamsoftsamples/dwt-django-file-upload/tree/master/dwt-upload/dwt
+[2]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
+[3]:https://github.com/dynamsoftsamples/dwt-django-file-upload/tree/master/form-upload/simpleform
