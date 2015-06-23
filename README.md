@@ -90,8 +90,9 @@ Samples
 
 Blog
 ----
-Coming soon...
+[Uploading Files with Django][4]
 
 [1]:https://github.com/dynamsoftsamples/dwt-django-file-upload/tree/master/dwt-upload/dwt
 [2]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
 [3]:https://github.com/dynamsoftsamples/dwt-django-file-upload/tree/master/form-upload/simpleform
+[4]:http://www.codepool.biz/django-upload-file.html
